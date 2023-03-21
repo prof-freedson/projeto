@@ -1,3 +1,5 @@
 Exemplo de projeto
 
 Lorem ipsum não sei o que
+
+Mais uma linha do meu bloco de notas
